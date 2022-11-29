@@ -1,3 +1,4 @@
 This is a niormal file and we are going to blog about c language for firdst week and then we move to java file.
 Test for VS code configuring
 Using commit from gitkraken
+Using amend to change
