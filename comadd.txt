@@ -2,3 +2,4 @@ This is a niormal file and we are going to blog about c language for firdst week
 Test for VS code configuring
 Using commit from gitkraken
 Using amend to change
+commiting from master branch when branchie branch is already there, to test in gitkraken view
