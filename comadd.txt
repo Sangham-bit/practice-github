@@ -3,6 +3,10 @@ Test for VS code configuring
 Using commit from gitkraken
 Using amend to change
 commiting from master branch when branchie branch is already there, to test in gitkraken view
+
+Adding chnages from local
+
+Practising more merges
 Added file ot github
 
 Add changes in branchiees
